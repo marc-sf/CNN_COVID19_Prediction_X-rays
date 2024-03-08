@@ -7,4 +7,4 @@ The dataset contains lungs x-rays classified by three labels:
 - Non-COVID: from patients suffering from other diseases.
 - Healthy: from patients classified as healthy.
 
-### ** This was a academic group assignment in which we tried different approaches: DNNs and CNNs, with differents combinations of the x-ray and mask images. This notebook shows only my modeling approach. **
+### **This was a academic group assignment in which we tried different approaches: DNNs and CNNs, with differents combinations of the x-ray and mask images. This notebook shows only my modeling approach.**
